@@ -1,6 +1,6 @@
 # Nordgreen Competitor Monitor
 
-Swerv Digital second-round task submission — Charles "Vrex" Lacsina
+Swerv Digital second-round task submission — Knight Charles Lacsina
 
 An automated system that monitors Nordgreen's public product catalog,
 detects real changes, uses Claude to judge what's worth reporting,
@@ -13,4 +13,4 @@ and delivers alerts to Slack.
   failure handling, and what I'd do differently at scale
 - `screenshots/` — proof of real runs, alerts, and a deliberate failure test
 
-Start with `submission-note.md` for the full picture.
+Start with `swerve-submission-note.md` for the full picture.
