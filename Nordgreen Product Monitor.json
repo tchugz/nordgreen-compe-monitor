@@ -1,0 +1,676 @@
+{
+  "name": "Nordgreen Product Monitor",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours"
+            }
+          ]
+        }
+      },
+      "id": "0c46db54-d873-4e95-98be-68249c82c0b2",
+      "name": "Schedule Trigger",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        -2432,
+        1872
+      ]
+    },
+    {
+      "parameters": {
+        "url": "https://nordgreen.com/products.json?limit=250",
+        "options": {
+          "timeout": 15000
+        }
+      },
+      "id": "6197e24e-888a-4cb4-bf8e-2aced971f35a",
+      "name": "Fetch Products",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -2208,
+        1872
+      ],
+      "onError": "continueErrorOutput"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 1
+          },
+          "conditions": [
+            {
+              "leftValue": "={{ $json.products }}",
+              "rightValue": "",
+              "operator": {
+                "type": "array",
+                "operation": "notEmpty",
+                "singleValue": true
+              },
+              "id": "a8ecc251-c55e-4d0d-916a-bb1d3b18bb90"
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "55202a35-c02c-401d-b11f-6cdb68d1f64d",
+      "name": "Fetch OK?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        -1968,
+        1856
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Degraded-run alert payload\nreturn [{\n  json: {\n    text: `🚨 *Nordgreen monitor degraded*\\nFetch returned no products or failed. Source may be blocked, rate-limited, or changed shape. Check manually.`\n  }\n}];"
+      },
+      "id": "7574f5c1-848c-40a4-987a-05171b0329c8",
+      "name": "Build Degraded Alert",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -1696,
+        1872
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://hooks.slack.com/services/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",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "text",
+              "value": "={{ $json.text }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "e43ba663-a298-4d46-83d6-aee185e80045",
+      "name": "Send Degraded Alert",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -1472,
+        1872
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Compute diffs against previous state, using n8n's built-in workflow static data.\n// No filesystem needed — this persists automatically across scheduled runs.\n\n\n\nconst staticData = $getWorkflowStaticData('global');\n\n\n\nif (!staticData.previousState) {\n    staticData.previousState = {}; // first run — everything will be 'new'\n}\n\n\nconst previousState = staticData.previousState;\n\n\n\n//console.log('DEBUG: previousState has', Object.keys(previousState).length, 'stored products');\n\nconst isFirstRun = Object.keys(previousState).length === 0; //added this for first run init.\n\nconst normalized = $('Normalize + Hash').first().json.normalized;\nconst diffs = [];\n\nfor (const { record, hash } of normalized) {\n  const pid = record.id;\n  const prev = previousState[pid];\n\n    // DEBUG — place it here, right after prev is read, before anything is overwritten\n  if (pid === '10873400197463') {\n    console.log('Stored hash:', prev?.hash, '| Incoming hash:', hash, '| Match:', prev?.hash === hash);\n  }\n\n  if (!prev) {\n    diffs.push({ type: 'new_product', product_id: pid, title: record.title, old: null, new: record });\n  } else if (prev.hash !== hash) {\n    const oldRecord = prev.record;\n    let priceDelta = null;\n    if (oldRecord.min_price != null && record.min_price != null) {\n      priceDelta = Math.abs(record.min_price - oldRecord.min_price);\n    }\n\n    // Detect stock transitions explicitly — higher-signal than generic \"other_change\"\n    let diffType = null;\n    if (oldRecord.available === true && record.available === false) {\n      diffType = 'stock_out';\n    } else if (oldRecord.available === false && record.available === true) {\n      diffType = 'restock';\n    } else if (oldRecord.on_sale === false && record.on_sale === true) {\n      diffType = 'sale_started';\n    } else if (oldRecord.on_sale === true && record.on_sale === false) {\n      diffType = 'sale_ended';\n    } else if (priceDelta && priceDelta > 0) {\n      diffType = 'price_change';\n    } else {\n      diffType = 'other_change';\n    }\n    // Deterministic pre-filter: ignore sub-$1 price noise entirely (never reaches Claude)\n    if (priceDelta !== null && priceDelta > 0 && priceDelta < 1.0) {\n      const priceOnlyDiff = JSON.stringify({...oldRecord, min_price: null, max_price: null}) ===\n                            JSON.stringify({...record, min_price: null, max_price: null});\n      if (priceOnlyDiff) {\n        previousState[pid] = { hash, record };\n        continue;\n      }\n    }\n      diffs.push({\n      type: diffType,\n      product_id: pid,\n      title: record.title,\n      old: oldRecord,\n      new: record\n    });\n  } else {\n    // unchanged — still refresh stored copy (harmless, keeps things simple)\n  }\n  \n  previousState[pid] = { hash, record };\n}\n\n// staticData is a live reference — mutating it above already persists the update.\n// n8n saves static data automatically when the workflow execution completes.\n\nreturn [{ json: { diffs: isFirstRun ? [] : diffs, isBaselineRun: isFirstRun, baselineCount: normalized.length } }];"
+      },
+      "id": "0a53f2ec-35b5-4332-87fa-03be69f32775",
+      "name": "Compute Diffs",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -1552,
+        1696
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 1
+          },
+          "conditions": [
+            {
+              "leftValue": "={{ $json.diffs }}",
+              "rightValue": "",
+              "operator": {
+                "type": "array",
+                "operation": "notEmpty",
+                "singleValue": true
+              },
+              "id": "7b29db26-5323-40b9-8b82-7494d6e322fb"
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "06f97e4e-42cf-4321-be00-be6ee2b1e65c",
+      "name": "Any Diffs?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        -1344,
+        1696
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Standardized log entry for baseline runs and genuinely quiet runs\nconst isBaseline = $json.isBaselineRun;\n\nreturn [{\n  json: {\n    timestamp: new Date().toISOString(),\n    status: isBaseline ? 'baseline_established' : 'no_changes',\n    diffs_detected: 0,\n    diffs_reported: 0,\n    detail: isBaseline\n      ? `Baseline established — captured ${$json.baselineCount} products, nothing to compare yet`\n      : 'No diffs detected this run'\n  }\n}];"
+      },
+      "id": "99b86f56-aa36-4b5a-9158-d32dd57ad955",
+      "name": "Log: No Changes",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -96,
+        1712
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Parse Claude's verdicts and merge back with the diffs.\n// Finds the text block dynamically (Claude Sonnet 5 returns a 'thinking'\n// block before the 'text' block, so content[0] is NOT the answer).\n\nconst diffs = $('Compute Diffs').first().json.diffs;\nconst raw = $input.first().json;\n\nlet rawText = null;\n\nif (raw?.error) {\n  throw new Error('Claude API error: ' + JSON.stringify(raw.error));\n}\n\nconst contentBlocks = raw?.content || raw?.body?.content;\n\nif (Array.isArray(contentBlocks)) {\n  const textBlock = contentBlocks.find(b => b.type === 'text');\n  if (textBlock?.text) {\n    rawText = textBlock.text;\n  }\n}\n\nif (!rawText) {\n  console.log('Unexpected Claude response shape:', JSON.stringify(raw).slice(0, 500));\n}\n\nif (raw?.stop_reason === 'max_tokens') {\n  console.log('WARNING: Claude response was truncated (stop_reason: max_tokens). Increase max_tokens in Build Claude Payload.');\n}\n\nlet parsed;\nif (!rawText) {\n  parsed = { results: diffs.map(d => ({\n    product_id: d.product_id,\n    worth_reporting: true,\n    category: 'unclassified',\n    reasoning: 'Could not read Claude response (unexpected shape) — flagging for manual review.'\n  })) };\n} else {\n  let content = rawText.trim().replace(/^```json/, '').replace(/^```/, '').replace(/```$/, '').trim();\n  try {\n    parsed = JSON.parse(content);\n  } catch (e) {\n    parsed = { results: diffs.map(d => ({\n      product_id: d.product_id,\n      worth_reporting: true,\n      category: 'unclassified',\n      reasoning: 'Claude response could not be parsed as JSON (possibly truncated) — flagging for manual review.'\n    })) };\n  }\n}\n\nconst verdictsById = Object.fromEntries(parsed.results.map(v => [v.product_id, v]));\n\nconst annotated = diffs.map(d => ({\n  ...d,\n  verdict: verdictsById[d.product_id] || {\n    worth_reporting: true,\n    category: 'unclassified',\n    reasoning: 'No verdict returned for this item — flagging for manual review.'\n  }\n}));\n\nconst material = annotated.filter(d => d.verdict.worth_reporting);\nconst noise = annotated.filter(d => !d.verdict.worth_reporting);\n\nreturn [{ json: { material, noise, allAnnotated: annotated } }];"
+      },
+      "id": "9d593cc1-ca1c-46f4-9bb8-bc3206844874",
+      "name": "Parse Claude Verdicts",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -752,
+        1440
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 1
+          },
+          "conditions": [
+            {
+              "leftValue": "={{ $json.material }}",
+              "rightValue": "",
+              "operator": {
+                "type": "array",
+                "operation": "notEmpty",
+                "singleValue": true
+              },
+              "id": "1f1ae282-800a-426c-8511-e2698ebb4588"
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "2c97a3b3-92a3-49b4-869d-ef68c97cded1",
+      "name": "Any Material Changes?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        -528,
+        1440
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Format the Slack message from material diffs\nconst material = $json.material;\nconst lines = [`🔍 *Nordgreen monitor — ${material.length} change(s) detected*\\n`];\nfor (const d of material) {\n  lines.push(`• *${d.title}* — \\`${d.verdict.category}\\`\\n   ${d.verdict.reasoning}`);\n}\nreturn [{ json: { text: lines.join('\\n') } }];"
+      },
+      "id": "0c4061b9-d98f-4825-ad0e-8d8b8cfbdfdf",
+      "name": "Format Slack Message",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -320,
+        1360
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Standardized log entry for runs where diffs were detected and judged by Claude\nconst material = $json.material || [];\nconst noise = $json.noise || [];\n\nreturn [{\n  json: {\n    timestamp: new Date().toISOString(),\n    status: 'OK',\n    diffs_detected: material.length + noise.length,\n    diffs_reported: material.length,\n    detail: `${material.length + noise.length} diff(s) detected, ${material.length} reported, ${noise.length} filtered as noise`\n  }\n}];"
+      },
+      "id": "3164af9a-df7c-4aed-b522-898fcfc90720",
+      "name": "Log Run",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -96,
+        1552
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Build the Claude API request payload as a proper object.\n// Kept separate from the HTTP node so the JSON is never double-stringified.\n\nconst diffs = $json.diffs;\n\nconst systemPrompt = `You are a competitive intelligence analyst for a marketing agency.\nYou will be shown a batch of detected changes on a competitor's e-commerce site.\n\nFor EACH change, decide if it is worth alerting a human about.\n\nReport as material (worth_reporting: true):\n- New product launches\n- Price changes of real magnitude (not rounding/currency noise)\n- Products going out of stock or back in stock\n- Changes signaling a strategic shift (new product category, new tags suggesting new positioning)\n- A product going on sale or a sale ending\n- Restocks after being out of stock\n\nDo NOT report as material (worth_reporting: false):\n- Cosmetic text changes (typo fixes, minor description rewording)\n- Negligible price fluctuations\n- Metadata-only changes with no customer-facing impact\n\nRespond ONLY with valid JSON, no preamble, in this exact shape:\n{\"results\": [{\"product_id\": \"...\", \"worth_reporting\": true, \"category\": \"new_product|price_change|stock_change|other\", \"reasoning\": \"one sentence\"}]}`;\n\nconst diffSummaries = diffs.map(d => ({\n  product_id: d.product_id,\n  title: d.title,\n  type: d.type,\n  old_price: d.old ? d.old.min_price : null,\n  new_price: d.new.min_price,\n  on_sale: d.new.on_sale,\n  compare_at_price: d.new.compare_at_price,\n  old_available: d.old ? d.old.available : null,\n  new_available: d.new.available\n}));\n\nconst userMessage = \"Batch of detected changes:\\n\\n\" + JSON.stringify(diffSummaries, null, 2);\n\nconst payload = {\n  model: \"claude-sonnet-5\",\n  max_tokens: 8000,\n  system: systemPrompt,\n  messages: [\n    { role: \"user\", content: userMessage }\n  ]\n};\n\nreturn [{ json: payload }];"
+      },
+      "id": "87384cd4-522c-4b78-bf36-43dd27129c10",
+      "name": "Build Claude Payload",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -1136,
+        1440
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://hooks.slack.com/services/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",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "text",
+              "value": "={{ $json.text }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "b0300959-c58a-435d-ba10-4b2a2c5dc9d7",
+      "name": "Send to Slack1",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -96,
+        1360
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Normalize + hash each product (deterministic, no AI cost)\n// Pure-JS hash (no 'crypto' module) since n8n's sandbox blocks Node built-ins by default\n\nfunction simpleHash(str) {\n  // djb2 hash - fast, deterministic, plenty collision-resistant for this use case\n  let hash = 5381;\n  for (let i = 0; i < str.length; i++) {\n    hash = ((hash << 5) + hash) + str.charCodeAt(i);\n    hash = hash & hash; // convert to 32-bit int\n  }\n  return hash.toString(16);\n}\n\nfunction normalizeProduct(p) {\n  const variants = p.variants || [];\n  const prices = variants.map(v => parseFloat(v.price)).filter(p => !isNaN(p));\n  const compareAtPrices = variants\n    .map(v => v.compare_at_price ? parseFloat(v.compare_at_price) : null)\n    .filter(p => p !== null && !isNaN(p));\n\n  const min_price = prices.length ? Math.min(...prices) : null;\n  const max_compare_at = compareAtPrices.length ? Math.max(...compareAtPrices) : null;\n  const on_sale = max_compare_at !== null && min_price !== null && max_compare_at > min_price;\n\n  return {\n    id: String(p.id),\n    title: p.title || '',\n    handle: p.handle || '',\n    product_type: p.product_type || '',\n    tags: p.tags || '',\n    min_price,\n    max_price: prices.length ? Math.max(...prices) : null,\n    compare_at_price: max_compare_at,\n    on_sale,\n    variant_count: variants.length,\n    available: variants.some(v => v.available)\n  };\n}\n\nfunction hashRecord(record) {\n  const fingerprint = JSON.stringify(record, Object.keys(record).sort());\n  return simpleHash(fingerprint);\n}\n\nconst products = $input.first().json.products;\nconst normalized = products.map(p => {\n  const record = normalizeProduct(p);\n  return { record, hash: hashRecord(record) };\n});\n\nreturn [{ json: { normalized } }];"
+      },
+      "id": "01dfc44f-69d8-484f-9d45-0fafc8afc53b",
+      "name": "Normalize + Hash",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -1760,
+        1696
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.anthropic.com/v1/messages",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "anthropic-version",
+              "value": "2023-06-01"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ $json }}",
+        "options": {}
+      },
+      "id": "3b87e38c-123d-4ad8-89da-c831b3c62a06",
+      "name": "Claude: Judge Materiality",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -944,
+        1440
+      ],
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "daTxvbAIg9x9BFMF",
+          "name": "anthropic"
+        }
+      },
+      "notes": "Single batched call per run — ALL diffs go in one prompt, not one call per item. This is the efficiency principle: Claude only handles the one judgment call that can't be hardcoded."
+    },
+    {
+      "parameters": {
+        "jsCode": "return [{\n  json: {\n    timestamp: new Date().toISOString(),\n    status: 'Degraded',\n    diffs_detected: 0,\n    diffs_reported: 0,\n    detail: 'Fetch failed or returned no products — see Slack alert for details'\n  }\n}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -96,
+        1872
+      ],
+      "id": "2bb2a6c7-3782-4ae4-8ec8-e8652e08b0ae",
+      "name": "Log Degraded"
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1Itn84OooQUb6c7bDC7wmFWL_wfj64BkYbzP9c42P3SM",
+          "mode": "list",
+          "cachedResultName": "NORDGREEN-MONITORING-WORKFLOW  LOG_RECORDS ",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1Itn84OooQUb6c7bDC7wmFWL_wfj64BkYbzP9c42P3SM/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "gid=0",
+          "mode": "list",
+          "cachedResultName": "Log_records2026",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1Itn84OooQUb6c7bDC7wmFWL_wfj64BkYbzP9c42P3SM/edit#gid=0"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "TimeStamp": "={{ $json.timestamp }}",
+            "Status": "={{ $json.status }}",
+            "Diffs_Detected": "={{ $json.diffs_detected }}",
+            "Diffs_Reported": "={{ $json.diffs_reported }}",
+            "Detail": "={{ $json.detail }}"
+          },
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "TimeStamp",
+              "displayName": "TimeStamp",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Status",
+              "displayName": "Status",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Diffs_Detected",
+              "displayName": "Diffs_Detected",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Diffs_Reported",
+              "displayName": "Diffs_Reported",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Detail",
+              "displayName": "Detail",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        208,
+        1712
+      ],
+      "id": "80f5a083-e2f5-48ef-93ca-53385863fb1a",
+      "name": "Log to Sheet",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "vIxfpdANmy5Z4ceV",
+          "name": "GS for Swerv"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "Fetch Products",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch Products": {
+      "main": [
+        [
+          {
+            "node": "Fetch OK?",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Fetch OK?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch OK?": {
+      "main": [
+        [
+          {
+            "node": "Normalize + Hash",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Build Degraded Alert",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Build Degraded Alert": {
+      "main": [
+        [
+          {
+            "node": "Send Degraded Alert",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Compute Diffs": {
+      "main": [
+        [
+          {
+            "node": "Any Diffs?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Any Diffs?": {
+      "main": [
+        [
+          {
+            "node": "Build Claude Payload",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Log: No Changes",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse Claude Verdicts": {
+      "main": [
+        [
+          {
+            "node": "Any Material Changes?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Any Material Changes?": {
+      "main": [
+        [
+          {
+            "node": "Format Slack Message",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Log Run",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Format Slack Message": {
+      "main": [
+        [
+          {
+            "node": "Send to Slack1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Build Claude Payload": {
+      "main": [
+        [
+          {
+            "node": "Claude: Judge Materiality",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Send to Slack1": {
+      "main": [
+        [
+          {
+            "node": "Log Run",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Normalize + Hash": {
+      "main": [
+        [
+          {
+            "node": "Compute Diffs",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Claude: Judge Materiality": {
+      "main": [
+        [
+          {
+            "node": "Parse Claude Verdicts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Send Degraded Alert": {
+      "main": [
+        [
+          {
+            "node": "Log Degraded",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Log Degraded": {
+      "main": [
+        [
+          {
+            "node": "Log to Sheet",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Log: No Changes": {
+      "main": [
+        [
+          {
+            "node": "Log to Sheet",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Log Run": {
+      "main": [
+        [
+          {
+            "node": "Log to Sheet",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "timeSavedMode": "fixed",
+    "callerPolicy": "workflowsFromSameOwner",
+    "executionTimeout": 300,
+    "availableInMCP": false
+  },
+  "versionId": "17216738-3b8e-4ef5-8c04-1435576bf3e7",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "71e15ea3e068abf5e4906d200fd7e136500f97193dd36a2ee3f583a253ce63bb"
+  },
+  "id": "x9vqEbcglE11W6oJ",
+  "tags": []
+}
