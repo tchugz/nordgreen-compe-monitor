@@ -13,4 +13,4 @@ and delivers alerts to Slack.
   failure handling, and what I'd do differently at scale
 - `screenshots/` — proof of real runs, alerts, and a deliberate failure test
 
-Start with `swerve-submission-note.md` for the full picture.
+Start with `submission-note.md` for the full picture.
