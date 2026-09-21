@@ -8,6 +8,12 @@ on:
 permissions:
   contents: write
 
+# Prevents overlapping runs from racing each other when pushing state back.
+# If a run is already in progress, a new one waits instead of colliding with it.
+concurrency:
+  group: nordgreen-monitor
+  cancel-in-progress: false
+
 jobs:
   run-monitor:
     runs-on: ubuntu-latest
@@ -16,6 +22,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0   # full history, not a shallow clone — makes rebase reliable
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -37,5 +44,11 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add nordgreen_state.json nordgreen_run_log.jsonl || true
           git diff --staged --quiet || git commit -m "Update monitor state [skip ci]"
-          git pull --rebase origin main
-          git push
+
+          # Retry loop: pull-rebase and push, retrying a few times in case
+          # another run pushes in the brief window between pull and push.
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed, retrying..."
+            sleep 5
+          done
