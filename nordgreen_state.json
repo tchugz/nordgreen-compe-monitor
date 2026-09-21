@@ -1,0 +1,5790 @@
+{
+  "10305091633495": {
+    "hash": "3861017b",
+    "record": {
+      "id": "10305091633495",
+      "title": "Navy Leather - Silver",
+      "handle": "navy-leather-silver",
+      "product_type": "Strap",
+      "tags": [
+        "Leather strap",
+        "Maybe"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10233267749207": {
+    "hash": "7ac40ace",
+    "record": {
+      "id": "10233267749207",
+      "title": "Succession 41mm",
+      "handle": "succession-41mm-silver-watch-with-blue-dial-and-silver-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Bestseller",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Out of stock",
+        "waterproof"
+      ],
+      "min_price": 160.3,
+      "max_price": 160.3,
+      "compare_at_price": 229.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10873515802967": {
+    "hash": "1c724325",
+    "record": {
+      "id": "10873515802967",
+      "title": "Waves 40mm",
+      "handle": "waves-40mm-black-dial-3-link",
+      "product_type": "Watch",
+      "tags": [
+        "3-link strap",
+        "Bestseller",
+        "classic",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Watch",
+        "waterproof"
+      ],
+      "min_price": 319.0,
+      "max_price": 319.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873514066263": {
+    "hash": "bd6e38fb",
+    "record": {
+      "id": "10873514066263",
+      "title": "Waves 40mm",
+      "handle": "waves-40mm-black-dial-silicone-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Watch",
+        "waterproof"
+      ],
+      "min_price": 299.0,
+      "max_price": 299.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873508364631": {
+    "hash": "ffec3ac",
+    "record": {
+      "id": "10873508364631",
+      "title": "Waves 40mm",
+      "handle": "waves-40mm-black-dial-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Leather strap",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Watch",
+        "waterproof"
+      ],
+      "min_price": 299.0,
+      "max_price": 299.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873479496023": {
+    "hash": "c70929aa",
+    "record": {
+      "id": "10873479496023",
+      "title": "Waves 40mm",
+      "handle": "waves-40mm-white-dial-3-link",
+      "product_type": "Watch",
+      "tags": [
+        "3-link strap",
+        "Bestseller",
+        "classic",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Watch",
+        "waterproof"
+      ],
+      "min_price": 319.0,
+      "max_price": 319.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873476448599": {
+    "hash": "1eb644f6",
+    "record": {
+      "id": "10873476448599",
+      "title": "Waves 40mm",
+      "handle": "waves-40mm-white-dial-silicone-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Watch",
+        "waterproof"
+      ],
+      "min_price": 299.0,
+      "max_price": 299.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873472483671": {
+    "hash": "61101b16",
+    "record": {
+      "id": "10873472483671",
+      "title": "Waves 40mm",
+      "handle": "waves-40mm-white-dial-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Leather strap",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Watch",
+        "waterproof"
+      ],
+      "min_price": 299.0,
+      "max_price": 299.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873400197463": {
+    "hash": "833fd8ce",
+    "record": {
+      "id": "10873400197463",
+      "title": "Black Silicone - Silver",
+      "handle": "black-silicone-silver",
+      "product_type": "Strap",
+      "tags": [
+        "Silicone strap"
+      ],
+      "min_price": 46.0,
+      "max_price": 46.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873404522839": {
+    "hash": "b54361e1",
+    "record": {
+      "id": "10873404522839",
+      "title": "Black Silicone - Black",
+      "handle": "black-silicone-black",
+      "product_type": "Strap",
+      "tags": [
+        "Silicone strap"
+      ],
+      "min_price": 46.0,
+      "max_price": 46.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873043517783": {
+    "hash": "a47cbcb",
+    "record": {
+      "id": "10873043517783",
+      "title": "3-link - Black",
+      "handle": "3-link-black",
+      "product_type": "Strap",
+      "tags": [
+        "3-link strap"
+      ],
+      "min_price": 59.0,
+      "max_price": 59.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "11014537281879": {
+    "hash": "7e3cb1bc",
+    "record": {
+      "id": "11014537281879",
+      "title": "Philosopher 40mm",
+      "handle": "philosopher-40mm",
+      "product_type": "Watch",
+      "tags": [
+        "Bestseller",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "Tier 1"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10233275449687": {
+    "hash": "d9bf75af",
+    "record": {
+      "id": "10233275449687",
+      "title": "Philosopher 40mm",
+      "handle": "philosopher-40mm-black-watch-with-black-dial-and-black-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Bestseller",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "Tier 1"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10873505874263": {
+    "hash": "4722a21",
+    "record": {
+      "id": "10873505874263",
+      "title": "Waves 40mm",
+      "handle": "waves-40mm-yellow-dial-3-link",
+      "product_type": "Watch",
+      "tags": [
+        "3-link strap",
+        "Bestseller",
+        "classic",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Watch",
+        "waterproof"
+      ],
+      "min_price": 319.0,
+      "max_price": 319.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873503842647": {
+    "hash": "ea718480",
+    "record": {
+      "id": "10873503842647",
+      "title": "Waves 40mm",
+      "handle": "waves-40mm-yellow-dial-silicone-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Watch",
+        "waterproof"
+      ],
+      "min_price": 299.0,
+      "max_price": 299.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873500369239": {
+    "hash": "191d240c",
+    "record": {
+      "id": "10873500369239",
+      "title": "Waves 40mm",
+      "handle": "waves-40mm-yellow-dial-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Leather strap",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Watch",
+        "waterproof"
+      ],
+      "min_price": 299.0,
+      "max_price": 299.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873495880023": {
+    "hash": "eef28e35",
+    "record": {
+      "id": "10873495880023",
+      "title": "Waves 40mm",
+      "handle": "waves-40mm-turquoise-dial-3-link",
+      "product_type": "Watch",
+      "tags": [
+        "3-link strap",
+        "Bestseller",
+        "classic",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Watch",
+        "waterproof"
+      ],
+      "min_price": 319.0,
+      "max_price": 319.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873492275543": {
+    "hash": "1d315f7",
+    "record": {
+      "id": "10873492275543",
+      "title": "Waves 40mm",
+      "handle": "waves-40mm-turquoise-dial-silicone-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Watch",
+        "waterproof"
+      ],
+      "min_price": 299.0,
+      "max_price": 299.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873485787479": {
+    "hash": "e4fb3517",
+    "record": {
+      "id": "10873485787479",
+      "title": "Waves 40mm",
+      "handle": "waves-40mm-turquoise-dial-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Leather strap",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Watch",
+        "waterproof"
+      ],
+      "min_price": 299.0,
+      "max_price": 299.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873458327895": {
+    "hash": "2960fb18",
+    "record": {
+      "id": "10873458327895",
+      "title": "Waves 40mm",
+      "handle": "waves-40mm-blue-dial-3-link",
+      "product_type": "Watch",
+      "tags": [
+        "3-link strap",
+        "Bestseller",
+        "classic",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Watch",
+        "waterproof"
+      ],
+      "min_price": 319.0,
+      "max_price": 319.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873455313239": {
+    "hash": "93bb1a28",
+    "record": {
+      "id": "10873455313239",
+      "title": "Waves 40mm",
+      "handle": "waves-40mm-blue-dial-silicone-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Watch",
+        "waterproof"
+      ],
+      "min_price": 299.0,
+      "max_price": 299.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10873405112663": {
+    "hash": "f678204f",
+    "record": {
+      "id": "10873405112663",
+      "title": "Waves 40mm",
+      "handle": "waves-40mm-blue-dial-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Leather strap",
+        "mens-classic",
+        "mens-large",
+        "modern",
+        "Watch",
+        "waterproof"
+      ],
+      "min_price": 299.0,
+      "max_price": 299.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10233238913367": {
+    "hash": "3add5d2",
+    "record": {
+      "id": "10233238913367",
+      "title": "Native 40mm - Gold - Navy Dial",
+      "handle": "native-gold-navy-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Dress",
+        "mens-large",
+        "Minimalistic",
+        "Slim",
+        "watchheadkill"
+      ],
+      "min_price": 170.0,
+      "max_price": 170.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10237709287767": {
+    "hash": "ba786fe",
+    "record": {
+      "id": "10237709287767",
+      "title": "Native 36mm - Gold - Navy Dial",
+      "handle": "native-36mm-gold-blue-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Bestseller",
+        "Dress",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim"
+      ],
+      "min_price": 170.0,
+      "max_price": 170.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10237783572823": {
+    "hash": "bd2f802d",
+    "record": {
+      "id": "10237783572823",
+      "title": "Philosopher 36mm - Gun Metal - White Dial",
+      "handle": "philosopher-36mm-gun-metal-white-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Dress",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "watchheadkill"
+      ],
+      "min_price": 200.0,
+      "max_price": 200.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10233238454615": {
+    "hash": "3cb028d4",
+    "record": {
+      "id": "10233238454615",
+      "title": "Native 32mm - Rose Gold - White Dial",
+      "handle": "native-rose-gold-white-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "Slim"
+      ],
+      "min_price": 170.0,
+      "max_price": 170.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10237786947927": {
+    "hash": "342fcd46",
+    "record": {
+      "id": "10237786947927",
+      "title": "Philosopher 36mm - Gun Metal - Brushed Metal Dial",
+      "handle": "philosopher-36mm-gun-metal-brushed-metal-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Dress",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "watchheadkill"
+      ],
+      "min_price": 200.0,
+      "max_price": 200.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10639353315671": {
+    "hash": "a2cf3016",
+    "record": {
+      "id": "10639353315671",
+      "title": "Unika 28mm",
+      "handle": "unika-28mm-1",
+      "product_type": "Watch",
+      "tags": [],
+      "min_price": 257.0,
+      "max_price": 257.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10536101544279": {
+    "hash": "3fb1c139",
+    "record": {
+      "id": "10536101544279",
+      "title": "Native 28mm",
+      "handle": "native-28mm-1",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10536086176087": {
+    "hash": "72b449e5",
+    "record": {
+      "id": "10536086176087",
+      "title": "Native 28mm",
+      "handle": "native-28mm",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10536153055575": {
+    "hash": "14c1a8c3",
+    "record": {
+      "id": "10536153055575",
+      "title": "Native 32mm",
+      "handle": "native-32mm-gold-watch-with-navy-dial-and-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-large"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10536144535895": {
+    "hash": "62577e51",
+    "record": {
+      "id": "10536144535895",
+      "title": "Native 32mm",
+      "handle": "native-32mm",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10536115798359": {
+    "hash": "41d5523d",
+    "record": {
+      "id": "10536115798359",
+      "title": "Native 28mm",
+      "handle": "native-28mm-3",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10536111735127": {
+    "hash": "ae88f788",
+    "record": {
+      "id": "10536111735127",
+      "title": "Native 28mm",
+      "handle": "native-28mm-2",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10536207810903": {
+    "hash": "9f46b12b",
+    "record": {
+      "id": "10536207810903",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-2",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "Kill",
+        "mens-large",
+        "modern",
+        "Tier 3",
+        "waterproof"
+      ],
+      "min_price": 329.0,
+      "max_price": 329.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10536206664023": {
+    "hash": "b5501dc8",
+    "record": {
+      "id": "10536206664023",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-1",
+      "product_type": "Watch",
+      "tags": [
+        "Kill",
+        "mens-large",
+        "modern",
+        "Tier 3",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10536202469719": {
+    "hash": "bf38b196",
+    "record": {
+      "id": "10536202469719",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "Kill",
+        "mens-large",
+        "modern",
+        "Tier 3",
+        "waterproof"
+      ],
+      "min_price": 329.0,
+      "max_price": 329.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10407896383831": {
+    "hash": "67d4ca0e",
+    "record": {
+      "id": "10407896383831",
+      "title": "Gift Wrapping",
+      "handle": "gift-wrapping",
+      "product_type": "",
+      "tags": [],
+      "min_price": 0.0,
+      "max_price": 0.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10331190657367": {
+    "hash": "d592071c",
+    "record": {
+      "id": "10331190657367",
+      "title": "Infinity 40mm",
+      "handle": "infinity-40mm-gold-watch-with-white-dial-and-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "mens-large",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern"
+      ],
+      "min_price": 219.0,
+      "max_price": 219.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10330315882839": {
+    "hash": "5880ac18",
+    "record": {
+      "id": "10330315882839",
+      "title": "Infinity 40mm",
+      "handle": "infinity-40mm-gold-watch-with-white-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "mens-large",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern"
+      ],
+      "min_price": 219.0,
+      "max_price": 219.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10230722003287": {
+    "hash": "cb1eef9d",
+    "record": {
+      "id": "10230722003287",
+      "title": "Dark Brown Leather - Silver",
+      "handle": "dark-brown-leather-silver",
+      "product_type": "Strap",
+      "tags": [
+        "Kill",
+        "Leather strap"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308585357655": {
+    "hash": "b56ba0b3",
+    "record": {
+      "id": "10308585357655",
+      "title": "Native 32mm",
+      "handle": "native-32mm-gold-watch-with-white-dial-and-black-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308465066327": {
+    "hash": "b7a3d46",
+    "record": {
+      "id": "10308465066327",
+      "title": "Native 32mm",
+      "handle": "native-32mm-gold-watch-with-white-dial-and-black-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10237484564823": {
+    "hash": "cd74e144",
+    "record": {
+      "id": "10237484564823",
+      "title": "Native 32mm",
+      "handle": "native-32mm-gold-watch-with-white-dial-and-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10237443866967": {
+    "hash": "2ae38af7",
+    "record": {
+      "id": "10237443866967",
+      "title": "Native 32mm",
+      "handle": "native-32mm-gold-watch-with-white-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10237434822999": {
+    "hash": "3e921f44",
+    "record": {
+      "id": "10237434822999",
+      "title": "Native 32mm",
+      "handle": "native-32mm-gold-watch-with-white-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Bestseller",
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10331680702807": {
+    "hash": "1361c500",
+    "record": {
+      "id": "10331680702807",
+      "title": "Native 32mm - Gold - White Dial",
+      "handle": "native-32mm-gold-white-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "Slim"
+      ],
+      "min_price": 170.0,
+      "max_price": 170.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10330269253975": {
+    "hash": "da4134d9",
+    "record": {
+      "id": "10330269253975",
+      "title": "Native 40mm - Gold - Blue Dial",
+      "handle": "native-40mm-gold-navy-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Bestseller",
+        "Dress",
+        "Maybe",
+        "mens-large",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim"
+      ],
+      "min_price": 170.0,
+      "max_price": 170.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10330265354583": {
+    "hash": "dfa9738f",
+    "record": {
+      "id": "10330265354583",
+      "title": "Navy Recycled Cordura - Gun Metal",
+      "handle": "navy-recycled-nylon-gun-metal",
+      "product_type": "Strap",
+      "tags": [
+        "Kill"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10330255884631": {
+    "hash": "b9e65d74",
+    "record": {
+      "id": "10330255884631",
+      "title": "Navy Recycled Cordura - Rose Gold",
+      "handle": "navy-recycled-nylon-rose-gold",
+      "product_type": "Strap",
+      "tags": [
+        "Kill"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10330247135575": {
+    "hash": "300177b3",
+    "record": {
+      "id": "10330247135575",
+      "title": "Beige Cordura - Silver",
+      "handle": "beige-nylon-silver",
+      "product_type": "Strap",
+      "tags": [
+        "Kill",
+        "Nylon strap"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10330174980439": {
+    "hash": "c07ca9b0",
+    "record": {
+      "id": "10330174980439",
+      "title": "Navy Nylon - Gun Metal",
+      "handle": "navy-nylon-gun-metal",
+      "product_type": "Strap",
+      "tags": [
+        "Kill"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10330009076055": {
+    "hash": "40b4343a",
+    "record": {
+      "id": "10330009076055",
+      "title": "Native 36mm",
+      "handle": "native-36mm-silver-watch-with-white-dial-and-silver-rose-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10329645482327": {
+    "hash": "8fe3aefa",
+    "record": {
+      "id": "10329645482327",
+      "title": "Native 40mm",
+      "handle": "native-40mm-silver-watch-with-black-dial-and-green-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10329638469975": {
+    "hash": "675e4cda",
+    "record": {
+      "id": "10329638469975",
+      "title": "Native 36mm",
+      "handle": "native-36mm-rose-gold-watch-with-black-dial-and-green-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10308588962135": {
+    "hash": "6c090cf4",
+    "record": {
+      "id": "10308588962135",
+      "title": "Unika 32mm - Gun Metal - Brushed Metal Dial",
+      "handle": "unika-32mm-gun-metal-brushed-metal-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Dress",
+        "Kill",
+        "Minimalistic",
+        "Watchheadkill"
+      ],
+      "min_price": 220.0,
+      "max_price": 220.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308574806359": {
+    "hash": "eb34be6d",
+    "record": {
+      "id": "10308574806359",
+      "title": "Philosopher 40mm",
+      "handle": "philosopher-40mm-silver-watch-with-white-dial-and-green-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "Tier 1"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10306717057367": {
+    "hash": "c6e8a219",
+    "record": {
+      "id": "10306717057367",
+      "title": "Philosopher 36mm - Gun Metal - Black Dial",
+      "handle": "philosopher-36mm-gun-metal-black-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Dress",
+        "Maybe",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "watchheadkill"
+      ],
+      "min_price": 200.0,
+      "max_price": 200.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10233240027479": {
+    "hash": "3a9e8afa",
+    "record": {
+      "id": "10233240027479",
+      "title": "Native 28mm - Rose Gold - Latte Sunray Dial",
+      "handle": "native-rose-gold-latte-sunray-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Bestseller",
+        "Dress",
+        "Kill",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "watchheadkill"
+      ],
+      "min_price": 170.0,
+      "max_price": 170.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301610492247": {
+    "hash": "a450ca45",
+    "record": {
+      "id": "10301610492247",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-silver-watch-with-white-dial-and-olive-green-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10252192514391": {
+    "hash": "481e731d",
+    "record": {
+      "id": "10252192514391",
+      "title": "Philosopher 40mm",
+      "handle": "philosopher-40mm-gold-watch-with-white-dial-and-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10252168233303": {
+    "hash": "38492016",
+    "record": {
+      "id": "10252168233303",
+      "title": "Native 32mm",
+      "handle": "native-32mm-gold-watch-with-pearl-dial-and-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10237755785559": {
+    "hash": "b4d96b73",
+    "record": {
+      "id": "10237755785559",
+      "title": "Native 40mm",
+      "handle": "native-40mm-gold-watch-with-white-dial-and-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Bestseller",
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10237749395799": {
+    "hash": "6e7a06eb",
+    "record": {
+      "id": "10237749395799",
+      "title": "Infinity 32mm",
+      "handle": "infinity-32mm-gold-watch-with-white-dial-and-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 219.0,
+      "max_price": 219.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10237701423447": {
+    "hash": "7f084d09",
+    "record": {
+      "id": "10237701423447",
+      "title": "Native 36mm",
+      "handle": "native-36mm-gold-watch-with-white-dial-and-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Bestseller",
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10308497965399": {
+    "hash": "1924d88e",
+    "record": {
+      "id": "10308497965399",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-rose-gold-watch-with-white-dial-and-navy-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10252211749207": {
+    "hash": "5ba31ac7",
+    "record": {
+      "id": "10252211749207",
+      "title": "Native 28mm",
+      "handle": "native-28mm-gold-watch-with-pearl-dial-and-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10304637632855": {
+    "hash": "4595be4e",
+    "record": {
+      "id": "10304637632855",
+      "title": "Native 28mm",
+      "handle": "native-28mm-rose-gold-watch-with-ice-blue-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304680493399": {
+    "hash": "3d955f73",
+    "record": {
+      "id": "10304680493399",
+      "title": "Infinity 32mm",
+      "handle": "infinity-32mm-silver-watch-with-white-dial-and-dark-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 219.0,
+      "max_price": 219.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304822739287": {
+    "hash": "f15b67e5",
+    "record": {
+      "id": "10304822739287",
+      "title": "Infinity 32mm",
+      "handle": "infinity-32mm-rose-gold-watch-with-rose-gold-dial-and-rose-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Kill",
+        "Minimalistic",
+        "modern",
+        "Tier 3",
+        "womens-large"
+      ],
+      "min_price": 131.4,
+      "max_price": 131.4,
+      "compare_at_price": 219.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10306720923991": {
+    "hash": "41bee932",
+    "record": {
+      "id": "10306720923991",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-gun-watch-with-black-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308578410839": {
+    "hash": "57cf4aa7",
+    "record": {
+      "id": "10308578410839",
+      "title": "Native 28mm",
+      "handle": "native-28mm-silver-watch-with-latte-dial-and-silver-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308549509463": {
+    "hash": "abb8fd4d",
+    "record": {
+      "id": "10308549509463",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-silver-watch-with-silver-dial-and-black-vegan-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308581065047": {
+    "hash": "2de56fe4",
+    "record": {
+      "id": "10308581065047",
+      "title": "Black Vegan Leather - Gold",
+      "handle": "black-vegan-leather-gold",
+      "product_type": "Strap",
+      "tags": [
+        "Kill",
+        "Vegan leather strap"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 2,
+      "available": false
+    }
+  },
+  "10308580376919": {
+    "hash": "b17f119d",
+    "record": {
+      "id": "10308580376919",
+      "title": "Philosopher 40mm",
+      "handle": "philosopher-40mm-rose-gold-watch-with-white-dial-and-navy-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalistic",
+        "modern",
+        "Slim"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10308579000663": {
+    "hash": "7014de26",
+    "record": {
+      "id": "10308579000663",
+      "title": "Philosopher 40mm",
+      "handle": "philosopher-40mm-rose-gold-watch-with-white-dial-and-navy-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalistic",
+        "modern",
+        "Slim"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10308575560023": {
+    "hash": "7698f82c",
+    "record": {
+      "id": "10308575560023",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-gun-watch-with-blue-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308572348759": {
+    "hash": "f4385227",
+    "record": {
+      "id": "10308572348759",
+      "title": "Native 36mm",
+      "handle": "native-36mm-gold-watch-with-white-dial-and-black-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308531290455": {
+    "hash": "1b9d755f",
+    "record": {
+      "id": "10308531290455",
+      "title": "Black Vegan Leather - Silver",
+      "handle": "black-vegan-leather-silver",
+      "product_type": "Strap",
+      "tags": [
+        "Kill",
+        "Vegan leather strap"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308528800087": {
+    "hash": "44fe2c93",
+    "record": {
+      "id": "10308528800087",
+      "title": "Native 32mm",
+      "handle": "native-32mm-silver-watch-with-purple-dial-and-silver-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308527653207": {
+    "hash": "7ae2a44e",
+    "record": {
+      "id": "10308527653207",
+      "title": "Native 32mm",
+      "handle": "native-32mm-gold-watch-with-purple-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308525097303": {
+    "hash": "96f39b2f",
+    "record": {
+      "id": "10308525097303",
+      "title": "Native 32mm",
+      "handle": "native-32mm-silver-watch-with-purple-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308522410327": {
+    "hash": "eda3f7ac",
+    "record": {
+      "id": "10308522410327",
+      "title": "Native 32mm",
+      "handle": "native-32mm-silver-watch-with-purple-dial-and-silver-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308520804695": {
+    "hash": "d84fefd",
+    "record": {
+      "id": "10308520804695",
+      "title": "Pioneer 42mm - Gun Metal - Brown Sunray Dial",
+      "handle": "pioneer-42mm-gun-metal-brown-sunray-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Maybe",
+        "mens-large",
+        "watchheadkill"
+      ],
+      "min_price": 290.0,
+      "max_price": 290.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308519985495": {
+    "hash": "5397193f",
+    "record": {
+      "id": "10308519985495",
+      "title": "Unika 28mm",
+      "handle": "unika-28mm-gold-watch-with-white-dial-and-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-small"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308518347095": {
+    "hash": "b66dd62f",
+    "record": {
+      "id": "10308518347095",
+      "title": "Unika 28mm",
+      "handle": "unika-28mm-gold-watch-with-white-dial-and-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-small"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308492656983": {
+    "hash": "a4f96801",
+    "record": {
+      "id": "10308492656983",
+      "title": "Navy Nylon - Rose Gold",
+      "handle": "navy-nylon-rose-gold",
+      "product_type": "Strap",
+      "tags": [
+        "Kill"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 2,
+      "available": true
+    }
+  },
+  "10308489412951": {
+    "hash": "bacecf9",
+    "record": {
+      "id": "10308489412951",
+      "title": "Native 32mm",
+      "handle": "native-32mm-gold-watch-with-purple-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308488528215": {
+    "hash": "af45b990",
+    "record": {
+      "id": "10308488528215",
+      "title": "Native 32mm - Gold - Digital Lavender Dial",
+      "handle": "native-32mm-gold-digital-lavender-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Dress",
+        "Maybe",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "watchheadkill"
+      ],
+      "min_price": 170.0,
+      "max_price": 170.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308485677399": {
+    "hash": "76484478",
+    "record": {
+      "id": "10308485677399",
+      "title": "Unika 32mm - Silver - Polished Metal Dial",
+      "handle": "unika-32mm-silver-polished-metal-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Dress",
+        "Kill",
+        "Minimalistic",
+        "watchheadkill"
+      ],
+      "min_price": 220.0,
+      "max_price": 220.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308481122647": {
+    "hash": "31ae17f7",
+    "record": {
+      "id": "10308481122647",
+      "title": "Brown Vegan Leather - Silver",
+      "handle": "brown-vegan-leather-silver",
+      "product_type": "Strap",
+      "tags": [
+        "Kill",
+        "Vegan leather strap"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 2,
+      "available": false
+    }
+  },
+  "10308479287639": {
+    "hash": "772abfe3",
+    "record": {
+      "id": "10308479287639",
+      "title": "Navy Vegan Leather - Gun Metal",
+      "handle": "navy-vegan-leather-gun-metal",
+      "product_type": "Strap",
+      "tags": [
+        "Kill",
+        "Leather strap",
+        "Vegan"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308475191639": {
+    "hash": "93f79709",
+    "record": {
+      "id": "10308475191639",
+      "title": "Native 32mm",
+      "handle": "native-32mm-rose-gold-watch-with-white-dial-and-navy-vegan-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308469358935": {
+    "hash": "4e3fa4b9",
+    "record": {
+      "id": "10308469358935",
+      "title": "Native 32mm",
+      "handle": "native-32mm-silver-watch-with-blue-dial-and-black-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308466311511": {
+    "hash": "85805871",
+    "record": {
+      "id": "10308466311511",
+      "title": "Native 32mm",
+      "handle": "native-32mm-rose-gold-watch-with-white-dial-and-black-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308462543191": {
+    "hash": "38c61eef",
+    "record": {
+      "id": "10308462543191",
+      "title": "Native 32mm",
+      "handle": "native-32mm-gold-watch-with-gold-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308461560151": {
+    "hash": "9579692c",
+    "record": {
+      "id": "10308461560151",
+      "title": "Native 32mm - Gold - Crystal Sunray Dial",
+      "handle": "native-32mm-gold-crystal-sunray-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Dress",
+        "Maybe",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "watchheadkill"
+      ],
+      "min_price": 170.0,
+      "max_price": 170.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308453499223": {
+    "hash": "7bb9fb1b",
+    "record": {
+      "id": "10308453499223",
+      "title": "Infinity 32mm",
+      "handle": "infinity-32mm-silver-watch-with-white-dial-and-black-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 219.0,
+      "max_price": 219.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308447994199": {
+    "hash": "276f57bb",
+    "record": {
+      "id": "10308447994199",
+      "title": "Infinity 32mm",
+      "handle": "infinity-32mm-gold-watch-with-white-dial-and-black-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 219.0,
+      "max_price": 219.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10308441538903": {
+    "hash": "61dd78b1",
+    "record": {
+      "id": "10308441538903",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-silver-watch-with-blue-dial-and-navy-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10307483238743": {
+    "hash": "ad139eae",
+    "record": {
+      "id": "10307483238743",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-rose-gold-watch-with-white-dial-and-black-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10307465871703": {
+    "hash": "3ded7736",
+    "record": {
+      "id": "10307465871703",
+      "title": "Native 36mm",
+      "handle": "native-36mm-rose-gold-watch-with-white-dial-and-black-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10307446112599": {
+    "hash": "88a92a94",
+    "record": {
+      "id": "10307446112599",
+      "title": "Native 28mm",
+      "handle": "native-28mm-gold-watch-with-purple-dial-and-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10307426189655": {
+    "hash": "77217e7a",
+    "record": {
+      "id": "10307426189655",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-gun-watch-with-white-dial-and-green-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10307414032727": {
+    "hash": "3b6d196c",
+    "record": {
+      "id": "10307414032727",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-gold-watch-with-gold-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10307370385751": {
+    "hash": "1dd56a3d",
+    "record": {
+      "id": "10307370385751",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-gun-watch-with-white-dial-and-green-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10307352985943": {
+    "hash": "f6bebd07",
+    "record": {
+      "id": "10307352985943",
+      "title": "Native 36mm",
+      "handle": "native-36mm-silver-watch-with-blue-dial-and-pink-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10307197239639": {
+    "hash": "22ece56c",
+    "record": {
+      "id": "10307197239639",
+      "title": "Native 36mm",
+      "handle": "native-36mm-silver-watch-with-white-dial-and-black-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10307182100823": {
+    "hash": "e653877b",
+    "record": {
+      "id": "10307182100823",
+      "title": "Native 36mm",
+      "handle": "native-36mm-silver-watch-with-blue-dial-and-black-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10307176399191": {
+    "hash": "13203675",
+    "record": {
+      "id": "10307176399191",
+      "title": "Native 32mm",
+      "handle": "native-32mm-silver-watch-with-blue-dial-and-black-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10307169550679": {
+    "hash": "f8adc570",
+    "record": {
+      "id": "10307169550679",
+      "title": "Philosopher 40mm",
+      "handle": "philosopher-40mm-rose-gold-watch-with-white-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalistic",
+        "modern",
+        "Slim"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10307152216407": {
+    "hash": "46c463d4",
+    "record": {
+      "id": "10307152216407",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-gun-watch-with-white-dial-and-navy-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10307146744151": {
+    "hash": "2f4fda32",
+    "record": {
+      "id": "10307146744151",
+      "title": "Native 36mm",
+      "handle": "native-36mm-rose-gold-watch-with-white-dial-and-green-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10307138781527": {
+    "hash": "5a9ba2bf",
+    "record": {
+      "id": "10307138781527",
+      "title": "Native 36mm",
+      "handle": "native-36mm-rose-gold-watch-with-white-dial-and-black-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10307106275671": {
+    "hash": "6b6bc563",
+    "record": {
+      "id": "10307106275671",
+      "title": "Native 28mm",
+      "handle": "native-28mm-silver-watch-with-pearl-dial-and-silver-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10307094053207": {
+    "hash": "f4449e89",
+    "record": {
+      "id": "10307094053207",
+      "title": "Native 28mm",
+      "handle": "native-28mm-silver-watch-with-pearl-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10307086516567": {
+    "hash": "38f7faec",
+    "record": {
+      "id": "10307086516567",
+      "title": "Native 28mm",
+      "handle": "native-28mm-silver-watch-with-pearl-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10307057418583": {
+    "hash": "ed027bd",
+    "record": {
+      "id": "10307057418583",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-gun-watch-with-blue-dial-and-gun-metal-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10307029107031": {
+    "hash": "a31bb536",
+    "record": {
+      "id": "10307029107031",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-gun-watch-with-blue-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10307020751191": {
+    "hash": "1bc4e57b",
+    "record": {
+      "id": "10307020751191",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-gun-watch-with-blue-dial-and-gun-metal-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 244.3,
+      "max_price": 244.3,
+      "compare_at_price": 349.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10307017605463": {
+    "hash": "7ae30f2e",
+    "record": {
+      "id": "10307017605463",
+      "title": "Pioneer 42mm - Gun Metal - Navy Dial",
+      "handle": "pioneer-42mm-gun-metal-navy-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Kill",
+        "mens-large",
+        "watchheadkill"
+      ],
+      "min_price": 290.0,
+      "max_price": 290.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10307010691415": {
+    "hash": "34695493",
+    "record": {
+      "id": "10307010691415",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-rose-gold-watch-with-white-dial-and-green-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10307002859863": {
+    "hash": "43bcfb4b",
+    "record": {
+      "id": "10307002859863",
+      "title": "Native 32mm",
+      "handle": "native-32mm-rose-gold-watch-with-white-dial-and-navy-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10306999124311": {
+    "hash": "c09f07b0",
+    "record": {
+      "id": "10306999124311",
+      "title": "Native 36mm",
+      "handle": "native-36mm-silver-watch-with-white-dial-and-grey-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10306994635095": {
+    "hash": "bb1d52a2",
+    "record": {
+      "id": "10306994635095",
+      "title": "Native 36mm",
+      "handle": "native-36mm-silver-watch-with-blue-dial-and-grey-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10306753691991": {
+    "hash": "991c2c92",
+    "record": {
+      "id": "10306753691991",
+      "title": "Native 40mm",
+      "handle": "native-40mm-silver-watch-with-white-dial-and-navy-vegan-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalistic",
+        "Slim",
+        "Tier 1"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10306746679639": {
+    "hash": "32cf8bd0",
+    "record": {
+      "id": "10306746679639",
+      "title": "Native 40mm",
+      "handle": "native-40mm-silver-watch-with-white-dial-and-navy-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalistic",
+        "Slim",
+        "Tier 1"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10306741076311": {
+    "hash": "3be2c5fc",
+    "record": {
+      "id": "10306741076311",
+      "title": "Native 40mm",
+      "handle": "native-40mm-silver-watch-with-black-dial-and-navy-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalistic",
+        "Slim"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10306725675351": {
+    "hash": "b2927ed2",
+    "record": {
+      "id": "10306725675351",
+      "title": "Native 36mm",
+      "handle": "native-36mm-silver-watch-with-blue-dial-and-black-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10305104511319": {
+    "hash": "86991d85",
+    "record": {
+      "id": "10305104511319",
+      "title": "Navy Vegan Leather - Silver",
+      "handle": "navy-vegan-leather-silver",
+      "product_type": "Strap",
+      "tags": [
+        "Kill",
+        "Leather strap",
+        "Vegan"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10305035698519": {
+    "hash": "2bf3cd8",
+    "record": {
+      "id": "10305035698519",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-silver-watch-with-white-dial-and-green-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10305031831895": {
+    "hash": "1e5e2a5e",
+    "record": {
+      "id": "10305031831895",
+      "title": "Native 36mm",
+      "handle": "native-36mm-silver-watch-with-white-dial-and-green-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10305030816087": {
+    "hash": "91ae7302",
+    "record": {
+      "id": "10305030816087",
+      "title": "Green Nylon - Silver",
+      "handle": "green-nylon-silver-1",
+      "product_type": "Strap",
+      "tags": [
+        "Kill",
+        "Nylon strap"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10305025671511": {
+    "hash": "c64b71ca",
+    "record": {
+      "id": "10305025671511",
+      "title": "Native 28mm",
+      "handle": "native-28mm-gold-watch-with-pearl-dial-and-navy-vegan-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10305001783639": {
+    "hash": "1b1c32f6",
+    "record": {
+      "id": "10305001783639",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-gold-watch-with-white-dial-and-pink-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10305000178007": {
+    "hash": "18a77850",
+    "record": {
+      "id": "10305000178007",
+      "title": "Native 36mm",
+      "handle": "native-36mm-silver-watch-with-white-dial-and-pink-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304998408535": {
+    "hash": "855220fd",
+    "record": {
+      "id": "10304998408535",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-silver-watch-with-white-dial-and-pink-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304997032279": {
+    "hash": "c9bd3914",
+    "record": {
+      "id": "10304997032279",
+      "title": "Pink Nylon - Silver",
+      "handle": "pink-nylon-silver",
+      "product_type": "Strap",
+      "tags": [
+        "Kill",
+        "Nylon strap"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304992248151": {
+    "hash": "fc6b44dc",
+    "record": {
+      "id": "10304992248151",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-silver-watch-with-blue-dial-and-navy-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304923369815": {
+    "hash": "371a7a27",
+    "record": {
+      "id": "10304923369815",
+      "title": "Native 36mm",
+      "handle": "native-36mm-silver-watch-with-white-dial-and-navy-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10304920944983": {
+    "hash": "f8d27628",
+    "record": {
+      "id": "10304920944983",
+      "title": "Unika 28mm",
+      "handle": "unika-28mm-rose-gold-watch-with-rose-gold-dial-and-rose-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-small"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304919404887": {
+    "hash": "16d2cefd",
+    "record": {
+      "id": "10304919404887",
+      "title": "Unika 28mm - Gun Metal - Brushed Metal Dial",
+      "handle": "unika-28mm-gun-metal-brushed-metal-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Dress",
+        "Kill",
+        "Minimalistic",
+        "watchheadkill"
+      ],
+      "min_price": 220.0,
+      "max_price": 220.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304913801559": {
+    "hash": "cf924819",
+    "record": {
+      "id": "10304913801559",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-silver-watch-with-white-dial-and-bright-red-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304866910551": {
+    "hash": "359c7bec",
+    "record": {
+      "id": "10304866910551",
+      "title": "Native 36mm",
+      "handle": "native-36mm-silver-watch-with-white-dial-and-bright-red-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10304857669975": {
+    "hash": "ae7edd7f",
+    "record": {
+      "id": "10304857669975",
+      "title": "Red Nylon - Silver",
+      "handle": "red-nylon-silver",
+      "product_type": "Strap",
+      "tags": [
+        "Kill"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10304844136791": {
+    "hash": "7970bcb4",
+    "record": {
+      "id": "10304844136791",
+      "title": "Native 28mm",
+      "handle": "native-28mm-gold-watch-with-pearl-dial-and-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10304836698455": {
+    "hash": "e5df4624",
+    "record": {
+      "id": "10304836698455",
+      "title": "Native 28mm",
+      "handle": "native-28mm-gold-watch-with-pearl-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10304827261271": {
+    "hash": "25bf0adc",
+    "record": {
+      "id": "10304827261271",
+      "title": "Native 28mm - Gold - Mother of Pearl Dial",
+      "handle": "native-28mm-gold-mother-of-pearl-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "Slim"
+      ],
+      "min_price": 176.0,
+      "max_price": 176.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10304777716055": {
+    "hash": "a81fac44",
+    "record": {
+      "id": "10304777716055",
+      "title": "Philosopher 40mm",
+      "handle": "philosopher-40mm-silver-watch-with-white-dial-and-navy-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "Tier 1"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10304755171671": {
+    "hash": "610c5f0e",
+    "record": {
+      "id": "10304755171671",
+      "title": "Navy Nylon - Silver",
+      "handle": "navy-nylon-silver",
+      "product_type": "Strap",
+      "tags": [
+        "Kill",
+        "Maybe"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 2,
+      "available": true
+    }
+  },
+  "10304736002391": {
+    "hash": "208f6b76",
+    "record": {
+      "id": "10304736002391",
+      "title": "Unika 28mm",
+      "handle": "unika-28mm-rose-gold-watch-with-white-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Kill",
+        "Minimalistic",
+        "modern",
+        "Tier 3",
+        "womens-small"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304734363991": {
+    "hash": "6722c84d",
+    "record": {
+      "id": "10304734363991",
+      "title": "Unika 28mm",
+      "handle": "unika-28mm-rose-gold-watch-with-white-dial-and-rose-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Kill",
+        "Minimalistic",
+        "modern",
+        "Tier 3",
+        "womens-small"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304732234071": {
+    "hash": "6506fa09",
+    "record": {
+      "id": "10304732234071",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-gun-watch-with-white-dial-and-gun-metal-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 244.3,
+      "max_price": 244.3,
+      "compare_at_price": 349.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10304714277207": {
+    "hash": "d7080f94",
+    "record": {
+      "id": "10304714277207",
+      "title": "Native 28mm",
+      "handle": "native-28mm-silver-watch-with-ice-blue-dial-and-silver-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304698777943": {
+    "hash": "ad6b497b",
+    "record": {
+      "id": "10304698777943",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-gun-watch-with-white-dial-and-gun-metal-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10304687145303": {
+    "hash": "7354476d",
+    "record": {
+      "id": "10304687145303",
+      "title": "Native 32mm",
+      "handle": "native-32mm-silver-watch-with-black-dial-and-dark-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304684589399": {
+    "hash": "c7f3d647",
+    "record": {
+      "id": "10304684589399",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-gun-watch-with-white-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10304676757847": {
+    "hash": "9815c53d",
+    "record": {
+      "id": "10304676757847",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-gold-watch-with-rainbow-black-dial-and-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304669450583": {
+    "hash": "d7f16c71",
+    "record": {
+      "id": "10304669450583",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-silver-watch-with-black-dial-and-silver-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304666566999": {
+    "hash": "14e0a9e4",
+    "record": {
+      "id": "10304666566999",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-silver-watch-with-black-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304658178391": {
+    "hash": "538d9d81",
+    "record": {
+      "id": "10304658178391",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-silver-watch-with-black-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304640057687": {
+    "hash": "1059409c",
+    "record": {
+      "id": "10304640057687",
+      "title": "Native 28mm",
+      "handle": "native-28mm-silver-watch-with-blue-dial-and-silver-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304635339095": {
+    "hash": "f41c7c24",
+    "record": {
+      "id": "10304635339095",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-silver-watch-with-white-dial-and-turquoise-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304633340247": {
+    "hash": "d16f6a27",
+    "record": {
+      "id": "10304633340247",
+      "title": "Native 36mm",
+      "handle": "native-36mm-silver-watch-with-white-dial-and-turquoise-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304626327895": {
+    "hash": "eded39d7",
+    "record": {
+      "id": "10304626327895",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-silver-watch-with-blue-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304621117783": {
+    "hash": "20c82fa",
+    "record": {
+      "id": "10304621117783",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-silver-watch-with-blue-dial-and-silver-5-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 244.3,
+      "max_price": 244.3,
+      "compare_at_price": 349.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304618692951": {
+    "hash": "13135755",
+    "record": {
+      "id": "10304618692951",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-silver-watch-with-blue-dial-and-green-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304617808215": {
+    "hash": "3c8e7941",
+    "record": {
+      "id": "10304617808215",
+      "title": "Native 36mm",
+      "handle": "native-36mm-rose-gold-watch-with-white-dial-and-rose-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10304614891863": {
+    "hash": "2bd30070",
+    "record": {
+      "id": "10304614891863",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-gold-watch-with-black-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304614039895": {
+    "hash": "49296fa4",
+    "record": {
+      "id": "10304614039895",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-gold-watch-with-black-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304611713367": {
+    "hash": "2e9790e1",
+    "record": {
+      "id": "10304611713367",
+      "title": "Infinity 32mm",
+      "handle": "infinity-32mm-silver-watch-with-white-dial-and-silver-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304610140503": {
+    "hash": "322c5bce",
+    "record": {
+      "id": "10304610140503",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-silver-watch-with-white-dial-and-silver-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304609091927": {
+    "hash": "493d4316",
+    "record": {
+      "id": "10304609091927",
+      "title": "Native 32mm",
+      "handle": "native-32mm-gold-watch-with-white-dial-and-silver-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304608108887": {
+    "hash": "ac691e82",
+    "record": {
+      "id": "10304608108887",
+      "title": "Native 28mm",
+      "handle": "native-28mm-silver-watch-with-white-dial-and-grey-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10304607158615": {
+    "hash": "40365b5e",
+    "record": {
+      "id": "10304607158615",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-rose-gold-watch-with-rose-gold-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10302037918039": {
+    "hash": "8baf8fb1",
+    "record": {
+      "id": "10302037918039",
+      "title": "Native 32mm",
+      "handle": "native-32mm-rose-gold-watch-with-blue-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10302033101143": {
+    "hash": "c9fd657a",
+    "record": {
+      "id": "10302033101143",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-rose-gold-watch-with-rose-gold-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10302018650455": {
+    "hash": "3c88a9d1",
+    "record": {
+      "id": "10302018650455",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-rose-gold-watch-with-black-dial-and-rose-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10302011539799": {
+    "hash": "6259acfe",
+    "record": {
+      "id": "10302011539799",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-rose-gold-watch-with-black-dial-and-rose-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10302005739863": {
+    "hash": "3db5644f",
+    "record": {
+      "id": "10302005739863",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-rose-gold-watch-with-black-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301995909463": {
+    "hash": "389861d0",
+    "record": {
+      "id": "10301995909463",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-rose-gold-watch-with-black-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301988045143": {
+    "hash": "514108fc",
+    "record": {
+      "id": "10301988045143",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-silver-watch-with-white-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301958160727": {
+    "hash": "8be1c39c",
+    "record": {
+      "id": "10301958160727",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-silver-watch-with-white-dial-and-silver-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301949477207": {
+    "hash": "a6971d5f",
+    "record": {
+      "id": "10301949477207",
+      "title": "Native 28mm",
+      "handle": "native-28mm-silver-watch-with-silver-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301944955223": {
+    "hash": "f7913984",
+    "record": {
+      "id": "10301944955223",
+      "title": "Native 28mm",
+      "handle": "native-28mm-silver-watch-with-silver-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301936468311": {
+    "hash": "fe24564e",
+    "record": {
+      "id": "10301936468311",
+      "title": "Native 28mm",
+      "handle": "native-28mm-rose-gold-watch-with-rose-gold-dial-and-rose-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301929292119": {
+    "hash": "441954f",
+    "record": {
+      "id": "10301929292119",
+      "title": "Native 28mm",
+      "handle": "native-28mm-silver-watch-with-silver-dial-and-silver-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-small"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301924213079": {
+    "hash": "b2d0a9f3",
+    "record": {
+      "id": "10301924213079",
+      "title": "Native 28mm",
+      "handle": "native-28mm-silver-watch-with-silver-dial-and-silver-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301918642519": {
+    "hash": "72fa819a",
+    "record": {
+      "id": "10301918642519",
+      "title": "Native 28mm",
+      "handle": "native-28mm-rose-gold-watch-with-pearl-dial-and-rose-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301913825623": {
+    "hash": "b8aa2e61",
+    "record": {
+      "id": "10301913825623",
+      "title": "Native 28mm",
+      "handle": "native-28mm-rose-gold-watch-with-white-dial-and-rose-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301907730775": {
+    "hash": "bb4637",
+    "record": {
+      "id": "10301907730775",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-gun-watch-with-gun-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301901111639": {
+    "hash": "ea20f34",
+    "record": {
+      "id": "10301901111639",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-gun-watch-with-gun-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301895049559": {
+    "hash": "3953c9a1",
+    "record": {
+      "id": "10301895049559",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-silver-watch-with-silver-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301888856407": {
+    "hash": "4356d94c",
+    "record": {
+      "id": "10301888856407",
+      "title": "Native 32mm",
+      "handle": "native-32mm-silver-watch-with-silver-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301883154775": {
+    "hash": "2f3f8851",
+    "record": {
+      "id": "10301883154775",
+      "title": "Native 32mm",
+      "handle": "native-32mm-silver-watch-with-silver-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301875093847": {
+    "hash": "819379ce",
+    "record": {
+      "id": "10301875093847",
+      "title": "Native 32mm",
+      "handle": "native-32mm-silver-watch-with-silver-dial-and-silver-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-large"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301867589975": {
+    "hash": "d3d5af36",
+    "record": {
+      "id": "10301867589975",
+      "title": "Native 32mm",
+      "handle": "native-32mm-silver-watch-with-silver-dial-and-silver-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301857038679": {
+    "hash": "466b1819",
+    "record": {
+      "id": "10301857038679",
+      "title": "Native 32mm",
+      "handle": "native-32mm-rose-gold-watch-with-rose-gold-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301850288471": {
+    "hash": "427debda",
+    "record": {
+      "id": "10301850288471",
+      "title": "Native 32mm",
+      "handle": "native-32mm-rose-gold-watch-with-rose-gold-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301845897559": {
+    "hash": "2567bbfc",
+    "record": {
+      "id": "10301845897559",
+      "title": "Native 32mm",
+      "handle": "native-32mm-rose-gold-watch-with-rose-gold-dial-and-rose-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-large"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301843997015": {
+    "hash": "22a4f6ec",
+    "record": {
+      "id": "10301843997015",
+      "title": "Native 36mm",
+      "handle": "native-36mm-gold-watch-with-blue-dial-and-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301841244503": {
+    "hash": "65789155",
+    "record": {
+      "id": "10301841244503",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-gun-watch-with-white-dial-and-pink-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301835575639": {
+    "hash": "da288e2e",
+    "record": {
+      "id": "10301835575639",
+      "title": "Native 28mm",
+      "handle": "native-28mm-gold-watch-with-gold-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301833740631": {
+    "hash": "74f7a809",
+    "record": {
+      "id": "10301833740631",
+      "title": "Native 28mm",
+      "handle": "native-28mm-gold-watch-with-gold-dial-and-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-small"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301831643479": {
+    "hash": "f1b8e6ee",
+    "record": {
+      "id": "10301831643479",
+      "title": "Native 28mm",
+      "handle": "native-28mm-gold-watch-with-gold-dial-and-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 3",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301828497751": {
+    "hash": "f7b82f3f",
+    "record": {
+      "id": "10301828497751",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-silver-watch-with-white-dial-and-pink-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301824598359": {
+    "hash": "60d79b70",
+    "record": {
+      "id": "10301824598359",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-silver-watch-with-white-dial-and-white-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301822370135": {
+    "hash": "972f7ca3",
+    "record": {
+      "id": "10301822370135",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-silver-watch-with-black-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301820469591": {
+    "hash": "cf6ab314",
+    "record": {
+      "id": "10301820469591",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-silver-watch-with-black-dial-and-silver-5-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 244.3,
+      "max_price": 244.3,
+      "compare_at_price": 349.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301801431383": {
+    "hash": "63b20dc3",
+    "record": {
+      "id": "10301801431383",
+      "title": "Native 28mm",
+      "handle": "native-28mm-silver-watch-with-white-dial-and-silver-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301795664215": {
+    "hash": "d4cd8731",
+    "record": {
+      "id": "10301795664215",
+      "title": "Native 36mm",
+      "handle": "native-36mm-rose-gold-watch-with-black-dial-and-rose-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301790519639": {
+    "hash": "35a0c910",
+    "record": {
+      "id": "10301790519639",
+      "title": "Native 36mm",
+      "handle": "native-36mm-rose-gold-watch-with-black-dial-and-rose-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301787210071": {
+    "hash": "973d0f89",
+    "record": {
+      "id": "10301787210071",
+      "title": "Native 36mm",
+      "handle": "native-36mm-rose-gold-watch-with-black-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301782622551": {
+    "hash": "88091c21",
+    "record": {
+      "id": "10301782622551",
+      "title": "Native 36mm",
+      "handle": "native-36mm-silver-watch-with-black-dial-and-green-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301775872343": {
+    "hash": "2e5c2969",
+    "record": {
+      "id": "10301775872343",
+      "title": "Native 36mm",
+      "handle": "native-36mm-rose-gold-watch-with-black-dial-and-dove-grey-vegan-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301771383127": {
+    "hash": "b10b3a73",
+    "record": {
+      "id": "10301771383127",
+      "title": "Native 36mm - Silver - Black Dial",
+      "handle": "native-36mm-silver-black-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Dress",
+        "Maybe",
+        "mens-small",
+        "Minimalistic",
+        "Slim",
+        "watchheadkill"
+      ],
+      "min_price": 170.0,
+      "max_price": 170.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301759979863": {
+    "hash": "6e3395e1",
+    "record": {
+      "id": "10301759979863",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-silver-watch-with-white-dial-and-black-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301752082775": {
+    "hash": "b4c571d3",
+    "record": {
+      "id": "10301752082775",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-gold-watch-with-white-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301745168727": {
+    "hash": "a6f603b2",
+    "record": {
+      "id": "10301745168727",
+      "title": "Native 32mm",
+      "handle": "native-32mm-rose-gold-watch-with-black-dial-and-rose-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301736485207": {
+    "hash": "7a30d7bc",
+    "record": {
+      "id": "10301736485207",
+      "title": "Native 32mm",
+      "handle": "native-32mm-rose-gold-watch-with-black-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301643555159": {
+    "hash": "e1ccbb89",
+    "record": {
+      "id": "10301643555159",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-silver-watch-with-white-dial-and-silver-5-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301638934871": {
+    "hash": "c08fe66",
+    "record": {
+      "id": "10301638934871",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-silver-watch-with-white-dial-and-silver-rose-gold-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301601513815": {
+    "hash": "e0a95a8f",
+    "record": {
+      "id": "10301601513815",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-silver-watch-with-white-dial-and-grey-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301588078935": {
+    "hash": "443b7b73",
+    "record": {
+      "id": "10301588078935",
+      "title": "Infinity 32mm",
+      "handle": "infinity-32mm-rose-gold-watch-with-white-dial-and-navy-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 131.4,
+      "max_price": 131.4,
+      "compare_at_price": 219.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301580247383": {
+    "hash": "c477142d",
+    "record": {
+      "id": "10301580247383",
+      "title": "Native 32mm",
+      "handle": "native-32mm-silver-watch-with-black-dial-and-silver-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301574349143": {
+    "hash": "9cf1e3d3",
+    "record": {
+      "id": "10301574349143",
+      "title": "Native 32mm",
+      "handle": "native-32mm-silver-watch-with-black-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301566681431": {
+    "hash": "82bc84ca",
+    "record": {
+      "id": "10301566681431",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-gun-watch-with-black-dial-and-green-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "mens-large",
+        "modern",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301555638615": {
+    "hash": "1b567123",
+    "record": {
+      "id": "10301555638615",
+      "title": "Native 32mm",
+      "handle": "native-32mm-gold-watch-with-blue-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301547741527": {
+    "hash": "4a3932ea",
+    "record": {
+      "id": "10301547741527",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-silver-watch-with-green-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "Kill",
+        "mens-large",
+        "modern",
+        "Tier 3",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301532406103": {
+    "hash": "65693e3",
+    "record": {
+      "id": "10301532406103",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-silver-watch-with-green-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "Kill",
+        "mens-large",
+        "modern",
+        "Tier 3",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301499408727": {
+    "hash": "dcf4b621",
+    "record": {
+      "id": "10301499408727",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-silver-watch-with-green-dial-and-silver-5-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "Kill",
+        "mens-large",
+        "modern",
+        "Tier 3",
+        "waterproof"
+      ],
+      "min_price": 244.3,
+      "max_price": 244.3,
+      "compare_at_price": 349.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301469393239": {
+    "hash": "9c20bc6c",
+    "record": {
+      "id": "10301469393239",
+      "title": "Native 28mm",
+      "handle": "native-28mm-silver-watch-with-white-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Bestseller",
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301457596759": {
+    "hash": "a6215e37",
+    "record": {
+      "id": "10301457596759",
+      "title": "Native 32mm",
+      "handle": "native-32mm-rose-gold-watch-with-white-dial-and-dove-grey-vegan-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301451698519": {
+    "hash": "745eef28",
+    "record": {
+      "id": "10301451698519",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-rose-gold-watch-with-white-dial-and-pink-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301447405911": {
+    "hash": "5885a3e4",
+    "record": {
+      "id": "10301447405911",
+      "title": "Native 36mm",
+      "handle": "native-36mm-silver-watch-with-white-dial-and-silver-5-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-large"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301444063575": {
+    "hash": "e3dc6e11",
+    "record": {
+      "id": "10301444063575",
+      "title": "Native 40mm",
+      "handle": "native-40mm-silver-watch-with-black-dial-and-dove-grey-vegan-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalistic",
+        "Slim"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301437608279": {
+    "hash": "d98744bd",
+    "record": {
+      "id": "10301437608279",
+      "title": "Native 40mm",
+      "handle": "native-40mm-silver-watch-with-black-dial-and-silver-5-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301427974487": {
+    "hash": "8cda7c57",
+    "record": {
+      "id": "10301427974487",
+      "title": "Native 40mm",
+      "handle": "native-40mm-silver-watch-with-blue-dial-and-silver-3-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim"
+      ],
+      "min_price": 229.0,
+      "max_price": 229.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10301425746263": {
+    "hash": "efbd347",
+    "record": {
+      "id": "10301425746263",
+      "title": "Native 40mm",
+      "handle": "native-40mm-silver-watch-with-white-dial-and-green-nylon-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "Tier 1"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301424009559": {
+    "hash": "21d9c8d5",
+    "record": {
+      "id": "10301424009559",
+      "title": "Philosopher 40mm",
+      "handle": "philosopher-40mm-silver-watch-with-white-dial-and-silver-5-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-large",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "Tier 1"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10301420274007": {
+    "hash": "85633310",
+    "record": {
+      "id": "10301420274007",
+      "title": "Pioneer 42mm",
+      "handle": "pioneer-42mm-gold-watch-with-white-dial-and-black-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Chronograph",
+        "Kill",
+        "mens-large",
+        "modern",
+        "Tier 3",
+        "waterproof"
+      ],
+      "min_price": 230.3,
+      "max_price": 230.3,
+      "compare_at_price": 329.0,
+      "on_sale": true,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10250903355735": {
+    "hash": "f73e4904",
+    "record": {
+      "id": "10250903355735",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-gold-watch-with-white-dial-and-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10230723412311": {
+    "hash": "bc4014b8",
+    "record": {
+      "id": "10230723412311",
+      "title": "Light Blue Cordura - Silver",
+      "handle": "light-blue-nylon-silver",
+      "product_type": "Strap",
+      "tags": [
+        "Kill",
+        "Nylon strap"
+      ],
+      "min_price": 39.0,
+      "max_price": 39.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10237454483799": {
+    "hash": "e49ad306",
+    "record": {
+      "id": "10237454483799",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-gold-watch-with-white-dial-and-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10249407398231": {
+    "hash": "f9541328",
+    "record": {
+      "id": "10249407398231",
+      "title": "Native 28mm",
+      "handle": "native-28mm-gold-watch-with-white-dial-and-gold-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Bestseller",
+        "classic",
+        "Dress",
+        "mens-classic",
+        "Minimalistic",
+        "Slim",
+        "Tier 1",
+        "womens-small"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10265327567191": {
+    "hash": "489a1b29",
+    "record": {
+      "id": "10265327567191",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-rose-gold-watch-with-rose-gold-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "Kill",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "Tier 3",
+        "womens-large"
+      ],
+      "min_price": 239.0,
+      "max_price": 239.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10265277727063": {
+    "hash": "5f9e87d5",
+    "record": {
+      "id": "10265277727063",
+      "title": "Native 36mm",
+      "handle": "native-36mm-rose-gold-watch-with-black-dial-and-brown-leather-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 209.0,
+      "max_price": 209.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10265270092119": {
+    "hash": "fc132ad7",
+    "record": {
+      "id": "10265270092119",
+      "title": "Native 36mm - Rose Gold - Black Dial",
+      "handle": "native-36mm-rose-gold-black-dial",
+      "product_type": "Watch head",
+      "tags": [
+        "Dress",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "Slim"
+      ],
+      "min_price": 170.0,
+      "max_price": 170.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
+    }
+  },
+  "10260576371031": {
+    "hash": "b3080428",
+    "record": {
+      "id": "10260576371031",
+      "title": "Unika 32mm",
+      "handle": "unika-32mm-silver-watch-with-black-dial-and-silver-mesh-strap",
+      "product_type": "Watch",
+      "tags": [
+        "Dress",
+        "Minimalistic",
+        "modern",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  },
+  "10260572209495": {
+    "hash": "34c5ae21",
+    "record": {
+      "id": "10260572209495",
+      "title": "Philosopher 36mm",
+      "handle": "philosopher-36mm-silver-watch-with-silver-dial-and-silver-5-link-strap",
+      "product_type": "Watch",
+      "tags": [
+        "classic",
+        "Dress",
+        "mens-classic",
+        "mens-small",
+        "Minimalist Men's Watches",
+        "Minimalistic",
+        "modern",
+        "Slim",
+        "womens-large"
+      ],
+      "min_price": 259.0,
+      "max_price": 259.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": false
+    }
+  }
+}
