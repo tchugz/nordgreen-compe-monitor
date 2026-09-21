@@ -16,7 +16,7 @@ Note: this reference version logs to a local JSONL file (see log_run()).
 The live n8n workflow logs the same fields to a Google Sheet instead.
  
 Usage:
-    python nordgreen_monitor.py
+    python nordgreen_product_monitor.py
 """
  
 import json
