@@ -620,7 +620,7 @@
     }
   },
   "10639353315671": {
-    "hash": "a2cf3016",
+    "hash": "1454d62b",
     "record": {
       "id": "10639353315671",
       "title": "Unika 28mm",
@@ -632,7 +632,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10536101544279": {
@@ -659,7 +659,7 @@
     }
   },
   "10536086176087": {
-    "hash": "72b449e5",
+    "hash": "7514763a",
     "record": {
       "id": "10536086176087",
       "title": "Native 28mm",
@@ -678,7 +678,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10536153055575": {
@@ -759,7 +759,7 @@
     }
   },
   "10536111735127": {
-    "hash": "ae88f788",
+    "hash": "c546505d",
     "record": {
       "id": "10536111735127",
       "title": "Native 28mm",
@@ -780,7 +780,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10536207810903": {
@@ -1340,7 +1340,7 @@
     }
   },
   "10301610492247": {
-    "hash": "a450ca45",
+    "hash": "928caafa",
     "record": {
       "id": "10301610492247",
       "title": "Philosopher 36mm",
@@ -1362,7 +1362,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10252192514391": {
@@ -3249,7 +3249,7 @@
     }
   },
   "10304913801559": {
-    "hash": "cf924819",
+    "hash": "d6ca662e",
     "record": {
       "id": "10304913801559",
       "title": "Philosopher 36mm",
@@ -3271,7 +3271,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10304866910551": {
@@ -4709,7 +4709,7 @@
     }
   },
   "10301828497751": {
-    "hash": "f7b82f3f",
+    "hash": "98b28ad4",
     "record": {
       "id": "10301828497751",
       "title": "Philosopher 36mm",
@@ -4731,11 +4731,11 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10301824598359": {
-    "hash": "60d79b70",
+    "hash": "211d69a5",
     "record": {
       "id": "10301824598359",
       "title": "Philosopher 36mm",
@@ -4757,7 +4757,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10301822370135": {
@@ -4970,7 +4970,7 @@
     }
   },
   "10301759979863": {
-    "hash": "6e3395e1",
+    "hash": "7ad652d6",
     "record": {
       "id": "10301759979863",
       "title": "Philosopher 36mm",
@@ -4992,7 +4992,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10301752082775": {
@@ -5070,7 +5070,7 @@
     }
   },
   "10301643555159": {
-    "hash": "e1ccbb89",
+    "hash": "a21289be",
     "record": {
       "id": "10301643555159",
       "title": "Philosopher 36mm",
@@ -5092,11 +5092,11 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10301638934871": {
-    "hash": "c08fe66",
+    "hash": "8200319b",
     "record": {
       "id": "10301638934871",
       "title": "Philosopher 36mm",
@@ -5118,11 +5118,11 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10301601513815": {
-    "hash": "e0a95a8f",
+    "hash": "81a3b624",
     "record": {
       "id": "10301601513815",
       "title": "Philosopher 36mm",
@@ -5144,7 +5144,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10301588078935": {
