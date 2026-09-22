@@ -3365,7 +3365,7 @@
     }
   },
   "10304827261271": {
-    "hash": "261f065a",
+    "hash": "25bf0adc",
     "record": {
       "id": "10304827261271",
       "title": "Native 28mm - Gold - Mother of Pearl Dial",
@@ -3376,8 +3376,8 @@
         "Minimalistic",
         "Slim"
       ],
-      "min_price": 175.0,
-      "max_price": 175.0,
+      "min_price": 176.0,
+      "max_price": 176.0,
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
