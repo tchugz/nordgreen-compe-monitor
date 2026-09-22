@@ -620,15 +620,15 @@
     }
   },
   "10639353315671": {
-    "hash": "1454d62b",
+    "hash": "43b16269",
     "record": {
       "id": "10639353315671",
       "title": "Unika 28mm",
       "handle": "unika-28mm-1",
       "product_type": "Watch",
       "tags": [],
-      "min_price": 257.0,
-      "max_price": 257.0,
+      "min_price": 256.0,
+      "max_price": 256.0,
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
@@ -3365,7 +3365,7 @@
     }
   },
   "10304827261271": {
-    "hash": "25bf0adc",
+    "hash": "261f065a",
     "record": {
       "id": "10304827261271",
       "title": "Native 28mm - Gold - Mother of Pearl Dial",
@@ -3376,8 +3376,8 @@
         "Minimalistic",
         "Slim"
       ],
-      "min_price": 176.0,
-      "max_price": 176.0,
+      "min_price": 175.0,
+      "max_price": 175.0,
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
