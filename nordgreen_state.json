@@ -636,7 +636,7 @@
     }
   },
   "10536101544279": {
-    "hash": "3fb1c139",
+    "hash": "5ace56ce",
     "record": {
       "id": "10536101544279",
       "title": "Native 28mm",
@@ -655,7 +655,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10536086176087": {
@@ -734,7 +734,7 @@
     }
   },
   "10536115798359": {
-    "hash": "41d5523d",
+    "hash": "5892ab12",
     "record": {
       "id": "10536115798359",
       "title": "Native 28mm",
@@ -755,7 +755,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10536111735127": {
@@ -3430,7 +3430,7 @@
     }
   },
   "10304736002391": {
-    "hash": "208f6b76",
+    "hash": "4cc13f2b",
     "record": {
       "id": "10304736002391",
       "title": "Unika 28mm",
@@ -3449,7 +3449,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10304734363991": {
