@@ -620,15 +620,15 @@
     }
   },
   "10639353315671": {
-    "hash": "43b16269",
+    "hash": "730deea7",
     "record": {
       "id": "10639353315671",
       "title": "Unika 28mm",
       "handle": "unika-28mm-1",
       "product_type": "Watch",
       "tags": [],
-      "min_price": 256.0,
-      "max_price": 256.0,
+      "min_price": 255.0,
+      "max_price": 255.0,
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
@@ -1747,7 +1747,7 @@
     }
   },
   "10308575560023": {
-    "hash": "7698f82c",
+    "hash": "acb85601",
     "record": {
       "id": "10308575560023",
       "title": "Pioneer 42mm",
@@ -1764,7 +1764,7 @@
       "compare_at_price": 329.0,
       "on_sale": true,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10308572348759": {
@@ -2091,7 +2091,7 @@
     }
   },
   "10308475191639": {
-    "hash": "93f79709",
+    "hash": "305be4fe",
     "record": {
       "id": "10308475191639",
       "title": "Native 32mm",
@@ -2111,7 +2111,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10308469358935": {
@@ -2678,7 +2678,7 @@
     }
   },
   "10307057418583": {
-    "hash": "ed027bd",
+    "hash": "8db4032",
     "record": {
       "id": "10307057418583",
       "title": "Pioneer 42mm",
@@ -2695,11 +2695,11 @@
       "compare_at_price": 329.0,
       "on_sale": true,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10307029107031": {
-    "hash": "a31bb536",
+    "hash": "d93b130b",
     "record": {
       "id": "10307029107031",
       "title": "Pioneer 42mm",
@@ -2716,11 +2716,11 @@
       "compare_at_price": 329.0,
       "on_sale": true,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10307020751191": {
-    "hash": "1bc4e57b",
+    "hash": "15cffdf0",
     "record": {
       "id": "10307020751191",
       "title": "Pioneer 42mm",
@@ -2737,11 +2737,11 @@
       "compare_at_price": 349.0,
       "on_sale": true,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10307017605463": {
-    "hash": "7ae30f2e",
+    "hash": "a2d7ac43",
     "record": {
       "id": "10307017605463",
       "title": "Pioneer 42mm - Gun Metal - Navy Dial",
@@ -2757,7 +2757,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10307010691415": {
@@ -3964,7 +3964,7 @@
     }
   },
   "10304607158615": {
-    "hash": "40365b5e",
+    "hash": "252a653",
     "record": {
       "id": "10304607158615",
       "title": "Unika 32mm",
@@ -3981,7 +3981,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10302037918039": {
@@ -4009,7 +4009,7 @@
     }
   },
   "10302033101143": {
-    "hash": "c9fd657a",
+    "hash": "8c19b06f",
     "record": {
       "id": "10302033101143",
       "title": "Unika 32mm",
@@ -4026,7 +4026,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10302018650455": {
@@ -4135,7 +4135,7 @@
     }
   },
   "10301958160727": {
-    "hash": "8be1c39c",
+    "hash": "9319e1b1",
     "record": {
       "id": "10301958160727",
       "title": "Philosopher 36mm",
@@ -4157,7 +4157,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": false
+      "available": true
     }
   },
   "10301949477207": {
@@ -5785,6 +5785,27 @@
       "on_sale": false,
       "variant_count": 1,
       "available": false
+    }
+  },
+  "10233239699799": {
+    "hash": "f48fe20c",
+    "record": {
+      "id": "10233239699799",
+      "title": "Unika 32mm - Rose Gold - Brushed Metal Dial",
+      "handle": "unika-rose-gold-brushed-metal-dial-1",
+      "product_type": "Watch head",
+      "tags": [
+        "Dress",
+        "Kill",
+        "Minimalistic",
+        "watchheadkill"
+      ],
+      "min_price": 220.0,
+      "max_price": 220.0,
+      "compare_at_price": null,
+      "on_sale": false,
+      "variant_count": 1,
+      "available": true
     }
   }
 }
