@@ -1747,7 +1747,7 @@
     }
   },
   "10308575560023": {
-    "hash": "acb85601",
+    "hash": "7698f82c",
     "record": {
       "id": "10308575560023",
       "title": "Pioneer 42mm",
@@ -1764,7 +1764,7 @@
       "compare_at_price": 329.0,
       "on_sale": true,
       "variant_count": 1,
-      "available": true
+      "available": false
     }
   },
   "10308572348759": {
@@ -2678,7 +2678,7 @@
     }
   },
   "10307057418583": {
-    "hash": "8db4032",
+    "hash": "ed027bd",
     "record": {
       "id": "10307057418583",
       "title": "Pioneer 42mm",
@@ -2695,11 +2695,11 @@
       "compare_at_price": 329.0,
       "on_sale": true,
       "variant_count": 1,
-      "available": true
+      "available": false
     }
   },
   "10307029107031": {
-    "hash": "d93b130b",
+    "hash": "a31bb536",
     "record": {
       "id": "10307029107031",
       "title": "Pioneer 42mm",
@@ -2716,11 +2716,11 @@
       "compare_at_price": 329.0,
       "on_sale": true,
       "variant_count": 1,
-      "available": true
+      "available": false
     }
   },
   "10307020751191": {
-    "hash": "15cffdf0",
+    "hash": "1bc4e57b",
     "record": {
       "id": "10307020751191",
       "title": "Pioneer 42mm",
@@ -2737,11 +2737,11 @@
       "compare_at_price": 349.0,
       "on_sale": true,
       "variant_count": 1,
-      "available": true
+      "available": false
     }
   },
   "10307017605463": {
-    "hash": "a2d7ac43",
+    "hash": "7ae30f2e",
     "record": {
       "id": "10307017605463",
       "title": "Pioneer 42mm - Gun Metal - Navy Dial",
@@ -2757,7 +2757,7 @@
       "compare_at_price": null,
       "on_sale": false,
       "variant_count": 1,
-      "available": true
+      "available": false
     }
   },
   "10307010691415": {
